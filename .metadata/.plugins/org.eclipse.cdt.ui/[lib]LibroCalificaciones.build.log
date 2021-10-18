@@ -1,0 +1,7 @@
+17:46:44 **** Incremental Build of configuration Release for project [lib]LibroCalificaciones ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o LibroCalificaciones.o "..\\LibroCalificaciones.cpp" 
+ar -r lib[lib]LibroCalificaciones.a LibroCalificaciones.o 
+
+17:46:45 Build Finished. 0 errors, 0 warnings. (took 693ms)
+

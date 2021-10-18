@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Prueba/src/LibroCalificaciones&apos; to &apos;LibroCalificaciones.cpp&apos;" description="Rename resource &apos;LibroCalificaciones&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/LibroCalificaciones" name="LibroCalificaciones.cpp" stamp="1620633945771" updateReferences="true"/>
+</session>
